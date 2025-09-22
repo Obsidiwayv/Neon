@@ -1,4 +1,0 @@
-IMPLEMENTOR="Wayvlyte"
-IMPLEMENTOR_VERSION="Aurora-1.0.0"
-JAVA_VERSION="21.0.7"
-MODULES="java.base java.datatransfer java.xml java.prefs java.desktop"
